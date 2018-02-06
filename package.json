@@ -6,9 +6,6 @@
   "scripts": {
     "test": "mocha test"
   },
-  "repository": {
-    "url": "https://github.com/hekike/adyen-node"
-  },
   "author": "Péter Márton, @slashdotpeter",
   "dependencies": {
     "moment": "~2.10.3"
